@@ -16,3 +16,10 @@ end
 
 dinner
 
+puts breakfast("pancakes")
+puts lunch("chicken")
+puts dinner("sushi")
+
+puts breakfast
+puts lunch
+puts dinner
