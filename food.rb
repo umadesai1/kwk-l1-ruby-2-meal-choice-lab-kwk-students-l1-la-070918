@@ -3,3 +3,9 @@ def breakfest(food="Frosted Flakes")
 end
 
 breakfest
+
+def lunch(food="grilled cheese")
+  puts "Lunch is the best time for #{food}!"
+end
+
+lunch
