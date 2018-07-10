@@ -1,1 +1,2 @@
-def breakfest(food=)
+def breakfest(food="Frosted Flakes")
+  
