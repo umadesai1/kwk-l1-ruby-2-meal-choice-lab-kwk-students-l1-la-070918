@@ -1,5 +1,5 @@
 def meal_choice
-  puts "Morning is the best time for #{food_type}."
+  puts "Morning is the best time for Frosted Flakes."
 end
 
-meal_choice ("Frosted Flakes")
+meal_choice 
