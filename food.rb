@@ -4,19 +4,19 @@ end
 
 
 def breakfast(food="frosted flakes")
-  "Morning is the best time for #{food}!"
+  "Morning is the best time for #{food}"
 end
 
 breakfast
 
 def lunch(food="grilled cheese")
-  "Afternoon is the best time for #{food}!"
+  "Afternoon is the best time for #{food}"
 end
 
 lunch
 
 def dinner(food="salmon")
-  "Night is the best time for #{food}!"
+  "Night is the best time for #{food}"
 end
 
 dinner
