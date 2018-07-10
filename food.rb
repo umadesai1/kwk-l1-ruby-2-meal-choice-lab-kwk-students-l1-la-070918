@@ -16,7 +16,7 @@ end
 lunch
 
 def dinner(food="salmon")
-  "Evening is the best time for #{food}!"
+  "Night is the best time for #{food}!"
 end
 
 dinner
