@@ -15,3 +15,4 @@ def dinner(food="salmon")
 end
 
 dinner
+
