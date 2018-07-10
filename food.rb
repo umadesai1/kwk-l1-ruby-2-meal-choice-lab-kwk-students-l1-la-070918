@@ -21,10 +21,12 @@ end
 
 dinner
 
+puts snacks("candy")
 puts breakfast("pancakes")
 puts lunch("chicken")
 puts dinner("sushi")
 
+puts snacks
 puts breakfast
 puts lunch
 puts dinner
