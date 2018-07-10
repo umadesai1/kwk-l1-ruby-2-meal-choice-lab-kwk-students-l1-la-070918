@@ -1,1 +1,1 @@
-def breakfest
+def breakfest(food=)
