@@ -1,17 +1,17 @@
-def breakfast
-  puts "Morning is the best time for Frosted Flakes."
+def breakfast(food="frosted flakes")
+  puts "Morning is the best time for #{food}!"
 end
 
 breakfast
 
-def lunch
-  puts "Lunch is the best time for grilled cheese."
+def lunch(food="grilled cheese")
+  puts "Lunch is the best time for #{food}!"
 end
 
 lunch
 
-def dinner
-  puts "Dinner is the best time for salmon."
+def dinner(food="salmon")
+  puts "Dinner is the best time for #{food}!"
 end
 
 dinner
