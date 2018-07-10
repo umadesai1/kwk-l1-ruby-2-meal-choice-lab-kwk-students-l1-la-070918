@@ -1,5 +1,5 @@
 def meal_choice
-  puts "Morning is the best time for #{food_item}"
+  puts "Morning is the best time for
 end
 
 meal_choice ("Frosted Flakes")
